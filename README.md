@@ -1,4 +1,5 @@
-### Hi there 👋
+Hi, I'm Grant. I graduated with a B.S. in physics with a minor in math from the University of Puget Sound in 2018. I've taken steps to move into the data science field. I have experience with modeling data using machine learning techniques (Random Forrest Models, XGBoost) and neural networks (Keras, TensorFlow) as well as data cleaning and engineering using Python (Pandas Library). Here you can see some of my pinned projects. You can reach me at Grantzho@gmail.com.
+
 
 <!--
 **Grantzho/Grantzho** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
